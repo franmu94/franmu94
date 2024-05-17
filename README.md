@@ -15,11 +15,5 @@ Mis proyectos:
 
 ### Contacto
 - [LinkedIn](https://www.linkedin.com/in/franciscomalourarte)
-- [Correo Electrónico](mailto:fmalourarte@gmail.com):
--
--   fmalourarte@gmail.com
+- [Correo Electrónico](mailto:fmalourarte@gmail.com): `fmalourarte@gmail.com`
 
--   - [Correo Electrónico](mailto:fmalourarte@gmail.com): fmalourarte [at] gmail [dot] com
-- [Correo Electrónico](mailto:fmalourarte@gmail.com): `fmalourarte`@`gmail.com`
-
-- - [Correo Electrónico](mailto:fmalourarte@gmail.com): fmalourarte&#64;gmail&#46;com
