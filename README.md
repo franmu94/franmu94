@@ -15,4 +15,6 @@ Mis proyectos:
 
 ### Contacto
 - [LinkedIn](https://www.linkedin.com/in/franciscomalourarte)
-- [Correo Electrónico](mailto:fmalourarte@gmail.com): wedfewfew
+- [Correo Electrónico](mailto:fmalourarte@gmail.com):
+-
+-   fmalourarte@gmail.com
