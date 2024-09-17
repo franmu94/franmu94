@@ -10,7 +10,7 @@ Mis proyectos:
 
 - [HeroesAppSwiftUI](https://github.com/franmu94/HeroesAppSwiftUI)
 
-
+- [HeroesAppSwiftUI](https://github.com/franmu94/BigBangSeriesTracker)
 
 
 ### Contacto
